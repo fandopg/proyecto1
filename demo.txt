@@ -1,1 +1,2 @@
 Primera linea agregada
+recuerda que para agregar texto a la ultima linea de un archivo de texto plano se utiliza el comando echo <el teto> >> archivo.tx
